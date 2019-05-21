@@ -1,2 +1,1 @@
-# Tarea3
-Puntos caracteristicos de una imagen
+# Puntos caracteristicos de una imagen
